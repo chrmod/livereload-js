@@ -1,6 +1,6 @@
 {
-  "name": "livereload-js",
-  "version": "2.2.2",
+  "name": "@chrmod/livereload-js",
+  "version": "2.3.0",
   "description": "LiveReload JS client - auto reload browser on changes",
   "main": "lib/startup.js",
   "directories": {
@@ -21,11 +21,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/zaius/livereload-js.git"
+    "url": "git://github.com/chrmod/livereload-js.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zaius/livereload-js/issues"
+    "url": "https://github.com/chrmod/livereload-js/issues"
   },
-  "homepage": "https://github.com/zaius/livereload-js"
+  "homepage": "https://github.com/chrmod/livereload-js"
 }
